@@ -5,7 +5,7 @@ var path = require('path');
 var defaultConfig = {
 
   // The port ungit is exposed on.
-  port: 8448,
+  port: 80,
 
   // The base URL ungit will be accessible from.
   urlBase: "http://localhost",
